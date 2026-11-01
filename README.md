@@ -1,4 +1,4 @@
-# 📘 NCERT Buddy — RAG Chatbot for Class 5
+# 📘 CBSE CLASS 5 EASY FRIEND — RAG Chatbot 
 
 A curriculum-grounded chatbot that answers Class 5 English & Science questions using NCERT textbooks.
 
